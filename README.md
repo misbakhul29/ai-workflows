@@ -88,3 +88,9 @@ Berdasarkan aturan utama di `global.md`, eksekusi skrip dan asisten AI dilarang 
 - Melakukan mutasi *database* langsung tanpa *file migration*.
 - Menjalankan skrip destruktif (seperti `rm -rf` atau *mass drops*).
 Seluruh operasi sistem atau iterasi evaluasi yang dilakukan oleh agen AI dianggap beroperasi dalam skala *production-sensitive* yang memerlukan proteksi integritas tingkat tinggi.
+
+<!--
+Credits:
+- https://claude.ai
+- https://www.usehallmark.com
+-->
